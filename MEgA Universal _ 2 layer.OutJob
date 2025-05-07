@@ -138,9 +138,9 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
 Configuration7_Name2=General
-Configuration7_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\GitHub\Altium-libs\MEGA_BOM-template.xlt|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration7_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\GitHub\Altium-libs\MEGA_BOM-template.xlt|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1675|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration7_Name3=GroupOrder
-Configuration7_Item3=Comment=True|Footprint=True
+Configuration7_Item3=Comment=True|Footprint=True|MEGA_ID=True
 Configuration7_Name4=SortOrder
 Configuration7_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration7_Name5=VisibleOrder
@@ -182,9 +182,9 @@ Configuration9_Name1=OutputConfigurationParameter1
 Configuration9_Item1=Record=LayerStackReportView|Units=Metric|ColumnsCount=9|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|DocumentPath=C:\GitHub\M10110Z\Altium project\Imported M10110Z7.PrjPcb\M10110Z7.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\GitHub\M10110P\Altium project\Imported M10110P3.PrjPcb\Project Outputs for M10110P3\
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for M10110Z7
+OutputFilePath2=C:\GitHub\M38LED\Altium project\Imported M38LED.PrjPcb\.\
+ReleaseManaged2=0
+OutputBasePath2=.\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -209,9 +209,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\GitHub\M10110Z\Altium project\Imported M10110Z7.PrjPcb\Project Outputs for M10110Z7\
-ReleaseManaged3=1
-OutputBasePath3=Project Outputs for M10110Z7
+OutputFilePath3=C:\GitHub\M38LED\Altium project\Imported M38LED.PrjPcb\.\
+ReleaseManaged3=0
+OutputBasePath3=.\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=
@@ -224,9 +224,9 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\GitHub\M10110P\Altium project\Imported M10110P3.PrjPcb\Project Outputs for M10110P3\
+RelativeOutputPath2=C:\GitHub\M38LED\Altium project\Imported M38LED.PrjPcb\.\
 OpenOutputs2=1
-RelativeOutputPath3=C:\GitHub\M10110Z\Altium project\Imported M10110Z7.PrjPcb\Project Outputs for M10110Z7\
+RelativeOutputPath3=C:\GitHub\M38LED\Altium project\Imported M38LED.PrjPcb\.\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
