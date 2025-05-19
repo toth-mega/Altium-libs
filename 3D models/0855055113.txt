@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-070295";"";
+"REFERENCE";"855055113";"";
+"TraceParts.PartTitle";"Modular Jack 8/8|RJ45";"";
+"TraceParts.InstanceId";"90-06062020-0702952N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Modular Jack, Cat5e, Right-Angle, Through Hole, 8/8, Low Profile, Shielded, Version A, Tube";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
